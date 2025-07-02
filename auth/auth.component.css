@@ -1,0 +1,9 @@
+.auth-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+  background-color: #f8f9fa; /* Optional background */
+  padding: 1rem;
+  box-sizing: border-box;
+}
